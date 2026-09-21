@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael Andrade Reis, tenho 22 anos e sou natural de Rio Branco Acre. Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e aprendizado contínuo. Estudei Sistemas para Internet no Instituto Federal do Acre (IFAC), onde tive a oportunidade de desenvolver habilidades em desenvolvimento web, banco de dados, redes de computadores e infraestrutura.
+Me chamo Rafael Andrade Reis, tenho 23 anos e sou natural de Rio Branco Acre. Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e aprendizado contínuo. Estudei Sistemas para Internet no Instituto Federal do Acre (IFAC), onde tive a oportunidade de desenvolver habilidades em desenvolvimento web, banco de dados, redes de computadores e infraestrutura.
 
 ---
 
